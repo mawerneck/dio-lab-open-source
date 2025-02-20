@@ -3,12 +3,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/moiseswerneck/))
 [![LinkedIn](https://img.shields.io/badge/DIO-purple?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.dio.me/users/mauadwerneck))
 ## Abilities
-![C](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=823085)
-![Java](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=openjdk&logoColor=orange)
-![Python](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=python&logoColor=yellow)
-![Pandas](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=pandas&logoColor=black)
-[![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)]
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)]
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c-sharp&logoColor=823085)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=orange)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=black)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 
 
 
